@@ -58,7 +58,7 @@ def get_rms(x,y,w):
 np.random.seed(1000)
 
 # In[3] Un-regularized linear regression
-nsamples_train = 100
+nsamples_train = 10
 nsamples_test = 100
 M = 9
 
